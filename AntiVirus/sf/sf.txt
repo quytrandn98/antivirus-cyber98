@@ -1,0 +1,1307 @@
+C:\\$Recycle.Bin
+C:\\bootTel.dat
+C:\\DumpStack.log.tmp
+C:\\hiberfil.sys
+C:\\pagefile.sys
+C:\\swapfile.sys
+C:\\$Recycle.Bin\S-1-5-18
+C:\\$Recycle.Bin\S-1-5-21-4287716284-355874472-3041605548-1001
+C:\\$Recycle.Bin\S-1-5-21-4287716284-355874472-3041605548-1003
+C:\\Program Files\Cisco Packet Tracer 7.3.0
+C:\\Program Files\desktop.ini
+C:\\Program Files\IDA 7.2
+C:\\Program Files (x86)\desktop.ini
+C:\\Program Files (x86)\Microsoft.NET
+C:\\ProgramData\DP45977C.lfl
+C:\\ProgramData\regid.1991-06.com.microsoft
+C:\\Python27\LICENSE.txt
+C:\\Python27\NEWS.txt
+C:\\Python27\python.exe
+C:\\Python27\pythonw.exe
+C:\\Python27\README.txt
+C:\\Users\desktop.ini
+C:\\Windows\bfsvc.exe
+C:\\Windows\bootstat.dat
+C:\\Windows\explorer.exe
+C:\\Windows\HelpPane.exe
+C:\\Windows\hh.exe
+C:\\Windows\mib.bin
+C:\\Windows\Microsoft.NET
+C:\\Windows\notepad.exe
+C:\\Windows\PFRO.log
+C:\\Windows\Professional.xml
+C:\\Windows\py.exe
+C:\\Windows\pyshellext.amd64.dll
+C:\\Windows\pyw.exe
+C:\\Windows\regedit.exe
+C:\\Windows\RtlExUpd.dll
+C:\\Windows\splwow64.exe
+C:\\Windows\system.ini
+C:\\Windows\twain_32.dll
+C:\\Windows\win.ini
+C:\\Windows\WindowsShell.Manifest
+C:\\Windows\WindowsUpdate.log
+C:\\Windows\winhlp32.exe
+C:\\Windows\WMSysPr9.prx
+C:\\Windows\write.exe
+C:\\xampp\apache_start.bat
+C:\\xampp\apache_stop.bat
+C:\\xampp\catalina_service.bat
+C:\\xampp\catalina_start.bat
+C:\\xampp\catalina_stop.bat
+C:\\xampp\ctlscript.bat
+C:\\xampp\filezilla_setup.bat
+C:\\xampp\filezilla_start.bat
+C:\\xampp\filezilla_stop.bat
+C:\\xampp\killprocess.bat
+C:\\xampp\mercury_start.bat
+C:\\xampp\mercury_stop.bat
+C:\\xampp\mysql_start.bat
+C:\\xampp\mysql_stop.bat
+C:\\xampp\passwords.txt
+C:\\xampp\properties.ini
+C:\\xampp\readme_de.txt
+C:\\xampp\readme_en.txt
+C:\\xampp\service.exe
+C:\\xampp\setup_xampp.bat
+C:\\xampp\test_php.bat
+C:\\xampp\uninstall.dat
+C:\\xampp\uninstall.exe
+C:\\xampp\xampp-control.exe
+C:\\xampp\xampp-control.ini
+C:\\xampp\xampp_shell.bat
+C:\\xampp\xampp_start.exe
+C:\\xampp\xampp_stop.exe
+C:\\$Recycle.Bin\S-1-5-21-4287716284-355874472-3041605548-1001\desktop.ini
+C:\\fonts\fonts\install.ps1
+C:\\fonts\fonts\install.sh
+C:\\fonts\fonts\README.rst
+C:\\fonts\fonts\uninstall.sh
+C:\\Intel\GfxCPLBatchFiles\{EC94D02F-D200-4428-9531-05AF7F9799CB}.bat
+C:\\Program Files\7-Zip\7-zip.chm
+C:\\Program Files\7-Zip\7-zip.dll
+C:\\Program Files\7-Zip\7-zip32.dll
+C:\\Program Files\7-Zip\7z.dll
+C:\\Program Files\7-Zip\7z.exe
+C:\\Program Files\7-Zip\7z.sfx
+C:\\Program Files\7-Zip\7zCon.sfx
+C:\\Program Files\7-Zip\7zFM.exe
+C:\\Program Files\7-Zip\7zG.exe
+C:\\Program Files\7-Zip\descript.ion
+C:\\Program Files\7-Zip\History.txt
+C:\\Program Files\7-Zip\License.txt
+C:\\Program Files\7-Zip\readme.txt
+C:\\Program Files\7-Zip\Uninstall.exe
+C:\\Program Files\Application Verifier\vrfauto.dll
+C:\\Program Files\Application Verifier\vrfauto.h
+C:\\Program Files\Application Verifier\vrfauto.idl
+C:\\Program Files\BurpSuiteCommunity\BurpSuiteCommunity.exe
+C:\\Program Files\BurpSuiteCommunity\BurpSuiteCommunity.vmoptions
+C:\\Program Files\BurpSuiteCommunity\burpsuite_community.jar
+C:\\Program Files\BurpSuiteCommunity\uninstall.exe
+C:\\Program Files\CCleaner\branding.dll
+C:\\Program Files\CCleaner\CCleaner.dat
+C:\\Program Files\CCleaner\CCleaner.exe
+C:\\Program Files\CCleaner\CCleaner64.exe
+C:\\Program Files\CCleaner\CCUpdate.exe
+C:\\Program Files\CCleaner\uninst.exe
+C:\\Program Files\Cisco Packet Tracer 7.3.0\art
+C:\\Program Files\Cisco Packet Tracer 7.3.0\backgrounds
+C:\\Program Files\Cisco Packet Tracer 7.3.0\bin
+C:\\Program Files\Cisco Packet Tracer 7.3.0\extensions
+C:\\Program Files\Cisco Packet Tracer 7.3.0\help
+C:\\Program Files\Cisco Packet Tracer 7.3.0\languages
+C:\\Program Files\Cisco Packet Tracer 7.3.0\plugins
+C:\\Program Files\Cisco Packet Tracer 7.3.0\saves
+C:\\Program Files\Cisco Packet Tracer 7.3.0\sounds
+C:\\Program Files\Cisco Packet Tracer 7.3.0\templates
+C:\\Program Files\Cisco Packet Tracer 7.3.0\unins000.dat
+C:\\Program Files\Cisco Packet Tracer 7.3.0\unins000.exe
+C:\\Program Files\CrystalDiskMark6\DiskMark32.exe
+C:\\Program Files\CrystalDiskMark6\DiskMark64.exe
+C:\\Program Files\CrystalDiskMark6\DiskMark64.ini
+C:\\Program Files\CrystalDiskMark6\unins000.dat
+C:\\Program Files\CrystalDiskMark6\unins000.exe
+C:\\Program Files\Git\git-bash.exe
+C:\\Program Files\Git\git-cmd.exe
+C:\\Program Files\Git\LICENSE.txt
+C:\\Program Files\Git\magic.py
+C:\\Program Files\Git\ReleaseNotes.html
+C:\\Program Files\Git\unins000.dat
+C:\\Program Files\Git\unins000.exe
+C:\\Program Files\Git\unins000.msg
+C:\\Program Files\Hyper-V\6.2
+C:\\Program Files\Hyper-V\6.3
+C:\\Program Files\Hyper-V\InspectVhdDialog.exe
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.Common.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.Common.Types.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.Management.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.RdpClientAxHost.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.RdpClientInterop.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.Settings.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.VMBrowser.dll
+C:\\Program Files\Hyper-V\Microsoft.Virtualization.Client.Wizards.dll
+C:\\Program Files\Hyper-V\Newtonsoft.Json.dll
+C:\\Program Files\Hyper-V\SnapInAbout.dll
+C:\\Program Files\Hyper-V\VMCreate.exe
+C:\\Program Files\Hyper-V\VMImport.exe
+C:\\Program Files\IDA 7.2\cfg
+C:\\Program Files\IDA 7.2\clp64.dll
+C:\\Program Files\IDA 7.2\dbghelp.dll
+C:\\Program Files\IDA 7.2\dbgsrv
+C:\\Program Files\IDA 7.2\ida.dll
+C:\\Program Files\IDA 7.2\ida.exe
+C:\\Program Files\IDA 7.2\ida.hlp
+C:\\Program Files\IDA 7.2\ida.int
+C:\\Program Files\IDA 7.2\ida.key
+C:\\Program Files\IDA 7.2\ida64.dll
+C:\\Program Files\IDA 7.2\ida64.exe
+C:\\Program Files\IDA 7.2\ida64.int
+C:\\Program Files\IDA 7.2\idacolor.cf
+C:\\Program Files\IDA 7.2\idag.ico
+C:\\Program Files\IDA 7.2\idahelp.chm
+C:\\Program Files\IDA 7.2\idat.exe
+C:\\Program Files\IDA 7.2\idat64.exe
+C:\\Program Files\IDA 7.2\idc
+C:\\Program Files\IDA 7.2\ids
+C:\\Program Files\IDA 7.2\libdwarf64.dll
+C:\\Program Files\IDA 7.2\license.txt
+C:\\Program Files\IDA 7.2\loaders
+C:\\Program Files\IDA 7.2\platforms
+C:\\Program Files\IDA 7.2\plugins
+C:\\Program Files\IDA 7.2\procs
+C:\\Program Files\IDA 7.2\python
+C:\\Program Files\IDA 7.2\qt.conf
+C:\\Program Files\IDA 7.2\Qt5Core.dll
+C:\\Program Files\IDA 7.2\Qt5Gui.dll
+C:\\Program Files\IDA 7.2\Qt5PrintSupport.dll
+C:\\Program Files\IDA 7.2\Qt5Widgets.dll
+C:\\Program Files\IDA 7.2\qwingraph.exe
+C:\\Program Files\IDA 7.2\sig
+C:\\Program Files\IDA 7.2\symsrv.dll
+C:\\Program Files\IDA 7.2\til
+C:\\Program Files\IDA 7.2\unins000.dat
+C:\\Program Files\IDA 7.2\unins000.exe
+C:\\Program Files\IDA 7.2\win_fw.dll
+C:\\Program Files\Internet Explorer\ExtExport.exe
+C:\\Program Files\Internet Explorer\hmmapi.dll
+C:\\Program Files\Internet Explorer\iediagcmd.exe
+C:\\Program Files\Internet Explorer\ieinstal.exe
+C:\\Program Files\Internet Explorer\ielowutil.exe
+C:\\Program Files\Internet Explorer\IEShims.dll
+C:\\Program Files\Internet Explorer\iexplore.exe
+C:\\Program Files\Internet Explorer\sqmapi.dll
+C:\\Program Files\Java\jdk-14.0.2
+C:\\Program Files\Java\jre1.8.0_261
+C:\\Program Files\JetBrains\PyCharm Community Edition 2020.1.2
+C:\\Program Files\Microsoft Office\AppXManifest.xml
+C:\\Program Files\Microsoft Office\FileSystemMetadata.xml
+C:\\Program Files\Microsoft Office\ThinAppXManifest.xml
+C:\\Program Files\Mozilla Firefox\Accessible.tlb
+C:\\Program Files\Mozilla Firefox\AccessibleHandler.dll
+C:\\Program Files\Mozilla Firefox\AccessibleMarshal.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-core-file-l1-2-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-core-file-l2-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-core-localization-l1-2-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-core-processthreads-l1-1-1.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-core-synch-l1-2-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-core-timezone-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-conio-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-convert-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-environment-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-heap-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-locale-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-math-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-private-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-process-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-runtime-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-stdio-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-string-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-time-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\api-ms-win-crt-utility-l1-1-0.dll
+C:\\Program Files\Mozilla Firefox\application.ini
+C:\\Program Files\Mozilla Firefox\crashreporter.exe
+C:\\Program Files\Mozilla Firefox\crashreporter.ini
+C:\\Program Files\Mozilla Firefox\d3dcompiler_47.dll
+C:\\Program Files\Mozilla Firefox\default-browser-agent.exe
+C:\\Program Files\Mozilla Firefox\defaultagent.ini
+C:\\Program Files\Mozilla Firefox\defaultagent_localized.ini
+C:\\Program Files\Mozilla Firefox\dependentlibs.list
+C:\\Program Files\Mozilla Firefox\firefox.exe
+C:\\Program Files\Mozilla Firefox\firefox.exe.sig
+C:\\Program Files\Mozilla Firefox\firefox.VisualElementsManifest.xml
+C:\\Program Files\Mozilla Firefox\freebl3.dll
+C:\\Program Files\Mozilla Firefox\IA2Marshal.dll
+C:\\Program Files\Mozilla Firefox\install.log
+C:\\Program Files\Mozilla Firefox\lgpllibs.dll
+C:\\Program Files\Mozilla Firefox\libEGL.dll
+C:\\Program Files\Mozilla Firefox\libGLESv2.dll
+C:\\Program Files\Mozilla Firefox\locale.ini
+C:\\Program Files\Mozilla Firefox\maintenanceservice.exe
+C:\\Program Files\Mozilla Firefox\maintenanceservice_installer.exe
+C:\\Program Files\Mozilla Firefox\minidump-analyzer.exe
+C:\\Program Files\Mozilla Firefox\mozavcodec.dll
+C:\\Program Files\Mozilla Firefox\mozavutil.dll
+C:\\Program Files\Mozilla Firefox\mozglue.dll
+C:\\Program Files\Mozilla Firefox\msvcp140.dll
+C:\\Program Files\Mozilla Firefox\nss3.dll
+C:\\Program Files\Mozilla Firefox\nssckbi.dll
+C:\\Program Files\Mozilla Firefox\omni.ja
+C:\\Program Files\Mozilla Firefox\osclientcerts.dll
+C:\\Program Files\Mozilla Firefox\pingsender.exe
+C:\\Program Files\Mozilla Firefox\platform.ini
+C:\\Program Files\Mozilla Firefox\plugin-container.exe
+C:\\Program Files\Mozilla Firefox\plugin-container.exe.sig
+C:\\Program Files\Mozilla Firefox\plugin-hang-ui.exe
+C:\\Program Files\Mozilla Firefox\qipcap64.dll
+C:\\Program Files\Mozilla Firefox\softokn3.dll
+C:\\Program Files\Mozilla Firefox\ucrtbase.dll
+C:\\Program Files\Mozilla Firefox\update-settings.ini
+C:\\Program Files\Mozilla Firefox\updater.exe
+C:\\Program Files\Mozilla Firefox\updater.ini
+C:\\Program Files\Mozilla Firefox\vcruntime140.dll
+C:\\Program Files\Mozilla Firefox\xul.dll
+C:\\Program Files\Mozilla Firefox\xul.dll.sig
+C:\\Program Files\Notepad++\change.log
+C:\\Program Files\Notepad++\contextMenu.xml
+C:\\Program Files\Notepad++\functionList.xml
+C:\\Program Files\Notepad++\langs.model.xml
+C:\\Program Files\Notepad++\notepad++.exe
+C:\\Program Files\Notepad++\NppShell_06.dll
+C:\\Program Files\Notepad++\readme.txt
+C:\\Program Files\Notepad++\SciLexer.dll
+C:\\Program Files\Notepad++\shortcuts.xml
+C:\\Program Files\Notepad++\stylers.model.xml
+C:\\Program Files\Notepad++\uninstall.exe
+C:\\Program Files\Npcap\CheckStatus.bat
+C:\\Program Files\Npcap\DiagReport.bat
+C:\\Program Files\Npcap\DiagReport.ps1
+C:\\Program Files\Npcap\FixInstall.bat
+C:\\Program Files\Npcap\install.log
+C:\\Program Files\Npcap\npcap.cat
+C:\\Program Files\Npcap\npcap.inf
+C:\\Program Files\Npcap\npcap.sys
+C:\\Program Files\Npcap\npcap_wfp.inf
+C:\\Program Files\Npcap\NPFInstall.exe
+C:\\Program Files\Npcap\NPFInstall.log
+C:\\Program Files\Npcap\Uninstall.exe
+C:\\Program Files\UniKey\keymap.txt
+C:\\Program Files\UniKey\UniKeyNT.exe
+C:\\Program Files\UniKey\unins000.dat
+C:\\Program Files\UniKey\unins000.exe
+C:\\Program Files\Windows Defender\AmMonitoringInstall.mof
+C:\\Program Files\Windows Defender\AMMonitoringProvider.dll
+C:\\Program Files\Windows Defender\AmStatusInstall.mof
+C:\\Program Files\Windows Defender\ClientWMIInstall.mof
+C:\\Program Files\Windows Defender\ConfigSecurityPolicy.exe
+C:\\Program Files\Windows Defender\DefenderCSP.dll
+C:\\Program Files\Windows Defender\EppManifest.dll
+C:\\Program Files\Windows Defender\FepUnregister.mof
+C:\\Program Files\Windows Defender\MpAsDesc.dll
+C:\\Program Files\Windows Defender\MpAzSubmit.dll
+C:\\Program Files\Windows Defender\MpClient.dll
+C:\\Program Files\Windows Defender\MpCmdRun.exe
+C:\\Program Files\Windows Defender\MpCommu.dll
+C:\\Program Files\Windows Defender\MpEvMsg.dll
+C:\\Program Files\Windows Defender\MpOAV.dll
+C:\\Program Files\Windows Defender\MpProvider.dll
+C:\\Program Files\Windows Defender\MpRtp.dll
+C:\\Program Files\Windows Defender\MpSvc.dll
+C:\\Program Files\Windows Defender\MsMpCom.dll
+C:\\Program Files\Windows Defender\MsMpEng.exe
+C:\\Program Files\Windows Defender\MsMpLics.dll
+C:\\Program Files\Windows Defender\MsMpRes.dll
+C:\\Program Files\Windows Defender\NisSrv.exe
+C:\\Program Files\Windows Defender\ProtectionManagement.dll
+C:\\Program Files\Windows Defender\ProtectionManagement.mof
+C:\\Program Files\Windows Defender\ProtectionManagement_Uninstall.mof
+C:\\Program Files\Windows Defender\shellext.dll
+C:\\Program Files\Windows Defender\ThirdPartyNotices.txt
+C:\\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe
+C:\\Program Files\Windows Defender Advanced Threat Protection\SenseCncProxy.exe
+C:\\Program Files\Windows Defender Advanced Threat Protection\SenseCncPS.dll
+C:\\Program Files\Windows Defender Advanced Threat Protection\SenseIR.exe
+C:\\Program Files\Windows Defender Advanced Threat Protection\SenseMirror.dll
+C:\\Program Files\Windows Defender Advanced Threat Protection\SenseNdr.exe
+C:\\Program Files\Windows Defender Advanced Threat Protection\SenseSampleUploader.exe
+C:\\Program Files\Windows Defender Advanced Threat Protection\WATPCSP.dll
+C:\\Program Files\Windows Mail\wab.exe
+C:\\Program Files\Windows Mail\wabimp.dll
+C:\\Program Files\Windows Mail\wabmig.exe
+C:\\Program Files\Windows Media Player\mpvis.DLL
+C:\\Program Files\Windows Media Player\setup_wm.exe
+C:\\Program Files\Windows Media Player\wmlaunch.exe
+C:\\Program Files\Windows Media Player\wmpconfig.exe
+C:\\Program Files\Windows Media Player\wmplayer.exe
+C:\\Program Files\Windows Media Player\WMPMediaSharing.dll
+C:\\Program Files\Windows Media Player\wmpnetwk.exe
+C:\\Program Files\Windows Media Player\wmpnscfg.exe
+C:\\Program Files\Windows Media Player\wmpnssci.dll
+C:\\Program Files\Windows Media Player\WMPNSSUI.dll
+C:\\Program Files\Windows Media Player\wmprph.exe
+C:\\Program Files\Windows Media Player\wmpshare.exe
+C:\\Program Files\Windows Multimedia Platform\sqmapi.dll
+C:\\Program Files\Windows Photo Viewer\ImagingDevices.exe
+C:\\Program Files\Windows Photo Viewer\ImagingEngine.dll
+C:\\Program Files\Windows Photo Viewer\PhotoAcq.dll
+C:\\Program Files\Windows Photo Viewer\PhotoBase.dll
+C:\\Program Files\Windows Photo Viewer\PhotoViewer.dll
+C:\\Program Files\Windows Portable Devices\sqmapi.dll
+C:\\Program Files (x86)\Application Verifier\vrfauto.dll
+C:\\Program Files (x86)\Application Verifier\vrfauto.h
+C:\\Program Files (x86)\Application Verifier\vrfauto.idl
+C:\\Program Files (x86)\Dell Digital Delivery Services\AddAppxProvisionedPackage.ps1
+C:\\Program Files (x86)\Dell Digital Delivery Services\AddAppxProvisionedPackage.psd1
+C:\\Program Files (x86)\Dell Digital Delivery Services\AlienwareDigitalDelivery_x64.xml
+C:\\Program Files (x86)\Dell Digital Delivery Services\AlienwareDigitalDelivery_x64_MSS.appxbundle
+C:\\Program Files (x86)\Dell Digital Delivery Services\AutoMapper.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\ClientContracts.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\default.png
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Azure.Entities.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.ClientServerCommunication.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Core.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.HSA.Server.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Platinum.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Repository.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Repository.SQLite.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Rules.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.RulesEngine.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.Scheduler.QuartzNet.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.SchedulerBase.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.Controller.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.exe
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.exe.config
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.MetadataManager.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.PluginManager.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.Plugins.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.Security.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.UILauncher.exe
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.Pla.P1.Common.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.Pla.P1.MessageClient.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Dell.Pla.P1.SDK.Nuget.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\DellDigitalDelivery_x64.appxbundle
+C:\\Program Files (x86)\Dell Digital Delivery Services\DellDigitalDelivery_x64.cer
+C:\\Program Files (x86)\Dell Digital Delivery Services\DellDigitalDelivery_x64.xml
+C:\\Program Files (x86)\Dell Digital Delivery Services\DellDigitalDelivery_x64_MSS.appxbundle
+C:\\Program Files (x86)\Dell Digital Delivery Services\DellLogo.png
+C:\\Program Files (x86)\Dell Digital Delivery Services\EntityFramework.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\EntityFramework.SqlServer.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Interop.Shell32.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Interop.TaskScheduler.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\license.txt
+C:\\Program Files (x86)\Dell Digital Delivery Services\logo_aw.png
+C:\\Program Files (x86)\Dell Digital Delivery Services\Microsoft.NET.Native.Framework_x64.appx
+C:\\Program Files (x86)\Dell Digital Delivery Services\Microsoft.NET.Native.Runtime.2.0_x64.appx
+C:\\Program Files (x86)\Dell Digital Delivery Services\Microsoft.ServiceBus.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Microsoft.VCLibs_x64.appx
+C:\\Program Files (x86)\Dell Digital Delivery Services\Microsoft.WindowsAPICodePack.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Microsoft.WindowsAPICodePack.Shell.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Newtonsoft.Json.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Quartz.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Serilog.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Serilog.Sinks.Console.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Serilog.Sinks.File.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Serilog.Sinks.RollingFile.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Serilog.Sinks.SQLite.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\SharpBITS.Base.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\SQLite.Interop.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.Data.SQLite.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.Data.SQLite.EF6.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.Data.SQLite.Linq.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.IO.FileSystem.AccessControl.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.Net.Http.Formatting.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.Security.AccessControl.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\System.Security.Principal.Windows.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\TextTranslations.xml
+C:\\Program Files (x86)\Dell Digital Delivery Services\vcruntime140.dll
+C:\\Program Files (x86)\Dell Digital Delivery Services\Windows.winmd
+C:\\Program Files (x86)\Dev-Cpp\ConsolePauser.exe
+C:\\Program Files (x86)\Dev-Cpp\COPYING.txt
+C:\\Program Files (x86)\Dev-Cpp\devcpp.exe
+C:\\Program Files (x86)\Dev-Cpp\devcpp.exe.manifest
+C:\\Program Files (x86)\Dev-Cpp\devcpp.map
+C:\\Program Files (x86)\Dev-Cpp\devcppPortable.exe
+C:\\Program Files (x86)\Dev-Cpp\NEWS.txt
+C:\\Program Files (x86)\Dev-Cpp\Packman.exe
+C:\\Program Files (x86)\Dev-Cpp\Packman.map
+C:\\Program Files (x86)\Dev-Cpp\uninstall.exe
+C:\\Program Files (x86)\HxD\changelog.txt
+C:\\Program Files (x86)\HxD\HxD.exe
+C:\\Program Files (x86)\HxD\license.txt
+C:\\Program Files (x86)\HxD\readme.txt
+C:\\Program Files (x86)\HxD\unins000.dat
+C:\\Program Files (x86)\HxD\unins000.exe
+C:\\Program Files (x86)\Internet Explorer\ExtExport.exe
+C:\\Program Files (x86)\Internet Explorer\hmmapi.dll
+C:\\Program Files (x86)\Internet Explorer\ie9props.propdesc
+C:\\Program Files (x86)\Internet Explorer\ieinstal.exe
+C:\\Program Files (x86)\Internet Explorer\ielowutil.exe
+C:\\Program Files (x86)\Internet Explorer\IEShims.dll
+C:\\Program Files (x86)\Internet Explorer\iexplore.exe
+C:\\Program Files (x86)\Internet Explorer\sqmapi.dll
+C:\\Program Files (x86)\Microsoft.NET\Primary Interop Assemblies
+C:\\Program Files (x86)\Microsoft.NET\RedistList
+C:\\Program Files (x86)\Mozilla Maintenance Service\maintenanceservice.exe
+C:\\Program Files (x86)\Mozilla Maintenance Service\Uninstall.exe
+C:\\Program Files (x86)\Mozilla Maintenance Service\updater.ini
+C:\\Program Files (x86)\MSBuild\15.0
+C:\\Program Files (x86)\Qt Designer\assistant.exe
+C:\\Program Files (x86)\Qt Designer\canbusutil.exe
+C:\\Program Files (x86)\Qt Designer\concrt140.dll
+C:\\Program Files (x86)\Qt Designer\D3Dcompiler_47.dll
+C:\\Program Files (x86)\Qt Designer\designer.exe
+C:\\Program Files (x86)\Qt Designer\dumpcpp.exe
+C:\\Program Files (x86)\Qt Designer\dumpdoc.exe
+C:\\Program Files (x86)\Qt Designer\lconvert.exe
+C:\\Program Files (x86)\Qt Designer\libEGL.dll
+C:\\Program Files (x86)\Qt Designer\libGLESV2.dll
+C:\\Program Files (x86)\Qt Designer\LICENSE.pyqt5
+C:\\Program Files (x86)\Qt Designer\linguist.exe
+C:\\Program Files (x86)\Qt Designer\lrelease.exe
+C:\\Program Files (x86)\Qt Designer\lupdate.exe
+C:\\Program Files (x86)\Qt Designer\msvcp140.dll
+C:\\Program Files (x86)\Qt Designer\opengl32sw.dll
+C:\\Program Files (x86)\Qt Designer\pixeltool.exe
+C:\\Program Files (x86)\Qt Designer\qcollectiongenerator.exe
+C:\\Program Files (x86)\Qt Designer\qdbus.exe
+C:\\Program Files (x86)\Qt Designer\qdbuscpp2xml.exe
+C:\\Program Files (x86)\Qt Designer\qdbusviewer.exe
+C:\\Program Files (x86)\Qt Designer\qdbusxml2cpp.exe
+C:\\Program Files (x86)\Qt Designer\qgltf.exe
+C:\\Program Files (x86)\Qt Designer\qhelpconverter.exe
+C:\\Program Files (x86)\Qt Designer\qhelpgenerator.exe
+C:\\Program Files (x86)\Qt Designer\qlalr.exe
+C:\\Program Files (x86)\Qt Designer\qml.exe
+C:\\Program Files (x86)\Qt Designer\qmlcachegen.exe
+C:\\Program Files (x86)\Qt Designer\qmleasing.exe
+C:\\Program Files (x86)\Qt Designer\qmlimportscanner.exe
+C:\\Program Files (x86)\Qt Designer\qmllint.exe
+C:\\Program Files (x86)\Qt Designer\qmlmin.exe
+C:\\Program Files (x86)\Qt Designer\qmlplugindump.exe
+C:\\Program Files (x86)\Qt Designer\qmlprofiler.exe
+C:\\Program Files (x86)\Qt Designer\qmlscene.exe
+C:\\Program Files (x86)\Qt Designer\qmltestrunner.exe
+C:\\Program Files (x86)\Qt Designer\qscxmlc.exe
+C:\\Program Files (x86)\Qt Designer\Qt5Core.dll
+C:\\Program Files (x86)\Qt Designer\Qt5DBus.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Designer.dll
+C:\\Program Files (x86)\Qt Designer\Qt5DesignerComponents.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Gui.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Help.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Network.dll
+C:\\Program Files (x86)\Qt Designer\Qt5PrintSupport.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Qml.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Quick.dll
+C:\\Program Files (x86)\Qt Designer\Qt5QuickTest.dll
+C:\\Program Files (x86)\Qt Designer\Qt5SerialBus.dll
+C:\\Program Files (x86)\Qt Designer\Qt5SerialPort.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Sql.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Svg.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Test.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Widgets.dll
+C:\\Program Files (x86)\Qt Designer\Qt5Xml.dll
+C:\\Program Files (x86)\Qt Designer\Qt5XmlPatterns.dll
+C:\\Program Files (x86)\Qt Designer\qtattributionsscanner.exe
+C:\\Program Files (x86)\Qt Designer\qtdiag.exe
+C:\\Program Files (x86)\Qt Designer\qtpaths.exe
+C:\\Program Files (x86)\Qt Designer\qtplugininfo.exe
+C:\\Program Files (x86)\Qt Designer\qvkgen.exe
+C:\\Program Files (x86)\Qt Designer\repc.exe
+C:\\Program Files (x86)\Qt Designer\testcon.exe
+C:\\Program Files (x86)\Qt Designer\uic.exe
+C:\\Program Files (x86)\Qt Designer\uninstall.exe
+C:\\Program Files (x86)\Qt Designer\vccorlib140.dll
+C:\\Program Files (x86)\Qt Designer\vcruntime140.dll
+C:\\Program Files (x86)\Qt Designer\xmlpatterns.exe
+C:\\Program Files (x86)\Qt Designer\xmlpatternsvalidator.exe
+C:\\Program Files (x86)\Steam\crashhandler.dll
+C:\\Program Files (x86)\Steam\crashhandler.dll.old
+C:\\Program Files (x86)\Steam\crashhandler64.dll
+C:\\Program Files (x86)\Steam\CSERHelper.dll
+C:\\Program Files (x86)\Steam\d3dcompiler_46.dll
+C:\\Program Files (x86)\Steam\d3dcompiler_46_64.dll
+C:\\Program Files (x86)\Steam\fossilize_engine_filters.json
+C:\\Program Files (x86)\Steam\GameOverlayRenderer.dll
+C:\\Program Files (x86)\Steam\GameOverlayRenderer64.dll
+C:\\Program Files (x86)\Steam\GameOverlayUI.exe
+C:\\Program Files (x86)\Steam\GameOverlayUI.exe.log.last
+C:\\Program Files (x86)\Steam\GfnRuntimeSdk.dll
+C:\\Program Files (x86)\Steam\icui18n.dll
+C:\\Program Files (x86)\Steam\icuuc.dll
+C:\\Program Files (x86)\Steam\libavcodec-57.dll
+C:\\Program Files (x86)\Steam\libavformat-57.dll
+C:\\Program Files (x86)\Steam\libavresample-3.dll
+C:\\Program Files (x86)\Steam\libavutil-55.dll
+C:\\Program Files (x86)\Steam\libfreetype-6.dll
+C:\\Program Files (x86)\Steam\libswscale-4.dll
+C:\\Program Files (x86)\Steam\libx264-142.dll.crypt
+C:\\Program Files (x86)\Steam\libx264-142.dll.md5
+C:\\Program Files (x86)\Steam\openvr_api.dll
+C:\\Program Files (x86)\Steam\SDL2.dll
+C:\\Program Files (x86)\Steam\Steam.dll
+C:\\Program Files (x86)\Steam\steam.exe
+C:\\Program Files (x86)\Steam\steam.exe.old
+C:\\Program Files (x86)\Steam\steam.signatures
+C:\\Program Files (x86)\Steam\Steam2.dll
+C:\\Program Files (x86)\Steam\steamclient.dll
+C:\\Program Files (x86)\Steam\steamclient64.dll
+C:\\Program Files (x86)\Steam\steamerrorreporter.exe
+C:\\Program Files (x86)\Steam\steamerrorreporter64.exe
+C:\\Program Files (x86)\Steam\SteamFossilizeVulkanLayer.json
+C:\\Program Files (x86)\Steam\SteamFossilizeVulkanLayer64.json
+C:\\Program Files (x86)\Steam\SteamOverlayVulkanLayer.dll
+C:\\Program Files (x86)\Steam\SteamOverlayVulkanLayer.json
+C:\\Program Files (x86)\Steam\SteamOverlayVulkanLayer64.dll
+C:\\Program Files (x86)\Steam\SteamOverlayVulkanLayer64.json
+C:\\Program Files (x86)\Steam\SteamUI.dll
+C:\\Program Files (x86)\Steam\steamwebrtc.dll
+C:\\Program Files (x86)\Steam\streaming_client.exe
+C:\\Program Files (x86)\Steam\ThirdPartyLegalNotices.css
+C:\\Program Files (x86)\Steam\ThirdPartyLegalNotices.doc
+C:\\Program Files (x86)\Steam\ThirdPartyLegalNotices.html
+C:\\Program Files (x86)\Steam\tier0_s.dll
+C:\\Program Files (x86)\Steam\tier0_s64.dll
+C:\\Program Files (x86)\Steam\uninstall.exe
+C:\\Program Files (x86)\Steam\update_hosts_cached.vdf
+C:\\Program Files (x86)\Steam\v8.dll
+C:\\Program Files (x86)\Steam\video.dll
+C:\\Program Files (x86)\Steam\VkLayer_steam_fossilize.dll
+C:\\Program Files (x86)\Steam\VkLayer_steam_fossilize64.dll
+C:\\Program Files (x86)\Steam\vstdlib_s.dll
+C:\\Program Files (x86)\Steam\vstdlib_s64.dll
+C:\\Program Files (x86)\Steam\WriteMiniDump.exe
+C:\\Program Files (x86)\Teams Installer\setup.json
+C:\\Program Files (x86)\Teams Installer\Teams.exe
+C:\\Program Files (x86)\TeamViewer\CopyRights.txt
+C:\\Program Files (x86)\TeamViewer\License.txt
+C:\\Program Files (x86)\TeamViewer\rolloutfile.tv13
+C:\\Program Files (x86)\TeamViewer\TeamViewer.exe
+C:\\Program Files (x86)\TeamViewer\TeamViewer15_Logfile.log
+C:\\Program Files (x86)\TeamViewer\TeamViewer15_Logfile_OLD.log
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Desktop.exe
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Note.exe
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_ar.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_bg.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_cs.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_da.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_de.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_el.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_en.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_es.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_fi.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_fr.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_he.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_hr.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_hu.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_id.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_it.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_ja.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_ko.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_lt.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_nl.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_no.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_pl.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_pt.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_ro.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_ru.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_sk.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_sr.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_sv.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_th.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_tr.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_uk.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_vi.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_zhCN.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Resource_zhTW.dll
+C:\\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
+C:\\Program Files (x86)\TeamViewer\TeamViewer_StaticRes.dll
+C:\\Program Files (x86)\TeamViewer\tvinfo.ini
+C:\\Program Files (x86)\TeamViewer\tv_w32.dll
+C:\\Program Files (x86)\TeamViewer\tv_w32.exe
+C:\\Program Files (x86)\TeamViewer\tv_x64.dll
+C:\\Program Files (x86)\TeamViewer\tv_x64.exe
+C:\\Program Files (x86)\TeamViewer\uninstall.exe
+C:\\Program Files (x86)\TeamViewer\WebView2Loader.dll
+C:\\Program Files (x86)\VulkanRT\1.0.61.0
+C:\\Program Files (x86)\Windows Defender\EppManifest.dll
+C:\\Program Files (x86)\Windows Defender\MpAsDesc.dll
+C:\\Program Files (x86)\Windows Defender\MpClient.dll
+C:\\Program Files (x86)\Windows Defender\MpOAV.dll
+C:\\Program Files (x86)\Windows Defender\MsMpLics.dll
+C:\\Program Files (x86)\Windows Mail\wab.exe
+C:\\Program Files (x86)\Windows Mail\wabimp.dll
+C:\\Program Files (x86)\Windows Mail\wabmig.exe
+C:\\Program Files (x86)\Windows Media Player\mpvis.DLL
+C:\\Program Files (x86)\Windows Media Player\setup_wm.exe
+C:\\Program Files (x86)\Windows Media Player\wmlaunch.exe
+C:\\Program Files (x86)\Windows Media Player\wmpconfig.exe
+C:\\Program Files (x86)\Windows Media Player\wmplayer.exe
+C:\\Program Files (x86)\Windows Media Player\WMPMediaSharing.dll
+C:\\Program Files (x86)\Windows Media Player\wmpnssci.dll
+C:\\Program Files (x86)\Windows Media Player\WMPNSSUI.dll
+C:\\Program Files (x86)\Windows Media Player\wmprph.exe
+C:\\Program Files (x86)\Windows Media Player\wmpshare.exe
+C:\\Program Files (x86)\Windows Multimedia Platform\sqmapi.dll
+C:\\Program Files (x86)\Windows Photo Viewer\ImagingDevices.exe
+C:\\Program Files (x86)\Windows Photo Viewer\ImagingEngine.dll
+C:\\Program Files (x86)\Windows Photo Viewer\PhotoAcq.dll
+C:\\Program Files (x86)\Windows Photo Viewer\PhotoBase.dll
+C:\\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll
+C:\\Program Files (x86)\Windows Portable Devices\sqmapi.dll
+C:\\Program Files (x86)\Wireshark\brotlicommon.dll
+C:\\Program Files (x86)\Wireshark\brotlidec.dll
+C:\\Program Files (x86)\Wireshark\capinfos.exe
+C:\\Program Files (x86)\Wireshark\capinfos.html
+C:\\Program Files (x86)\Wireshark\cares.dll
+C:\\Program Files (x86)\Wireshark\comerr32.dll
+C:\\Program Files (x86)\Wireshark\console.lua
+C:\\Program Files (x86)\Wireshark\COPYING.txt
+C:\\Program Files (x86)\Wireshark\d3dcompiler_47.dll
+C:\\Program Files (x86)\Wireshark\dftest.exe
+C:\\Program Files (x86)\Wireshark\dftest.html
+C:\\Program Files (x86)\Wireshark\dtd_gen.lua
+C:\\Program Files (x86)\Wireshark\dumpcap.exe
+C:\\Program Files (x86)\Wireshark\dumpcap.html
+C:\\Program Files (x86)\Wireshark\editcap.exe
+C:\\Program Files (x86)\Wireshark\editcap.html
+C:\\Program Files (x86)\Wireshark\enterprises.tsv
+C:\\Program Files (x86)\Wireshark\extcap.html
+C:\\Program Files (x86)\Wireshark\faq.html
+C:\\Program Files (x86)\Wireshark\glib-2.dll
+C:\\Program Files (x86)\Wireshark\gmodule-2.dll
+C:\\Program Files (x86)\Wireshark\gthread-2.dll
+C:\\Program Files (x86)\Wireshark\init.lua
+C:\\Program Files (x86)\Wireshark\ipmap.html
+C:\\Program Files (x86)\Wireshark\k5sprt32.dll
+C:\\Program Files (x86)\Wireshark\krb5_32.dll
+C:\\Program Files (x86)\Wireshark\libbcg729.dll
+C:\\Program Files (x86)\Wireshark\libcharset.dll
+C:\\Program Files (x86)\Wireshark\libEGL.dll
+C:\\Program Files (x86)\Wireshark\libffi-6.dll
+C:\\Program Files (x86)\Wireshark\libgcc_s_sjlj-1.dll
+C:\\Program Files (x86)\Wireshark\libgcrypt-20.dll
+C:\\Program Files (x86)\Wireshark\libGLESV2.dll
+C:\\Program Files (x86)\Wireshark\libgmp-10.dll
+C:\\Program Files (x86)\Wireshark\libgnutls-30.dll
+C:\\Program Files (x86)\Wireshark\libgpg-error-0.dll
+C:\\Program Files (x86)\Wireshark\libhogweed-4.dll
+C:\\Program Files (x86)\Wireshark\libiconv.dll
+C:\\Program Files (x86)\Wireshark\libintl.dll
+C:\\Program Files (x86)\Wireshark\libmaxminddb-0.dll
+C:\\Program Files (x86)\Wireshark\libnettle-6.dll
+C:\\Program Files (x86)\Wireshark\libp11-kit-0.dll
+C:\\Program Files (x86)\Wireshark\libsbc-1.dll
+C:\\Program Files (x86)\Wireshark\libsmi-2.dll
+C:\\Program Files (x86)\Wireshark\libsnappy-1.dll
+C:\\Program Files (x86)\Wireshark\libspandsp-2.dll
+C:\\Program Files (x86)\Wireshark\libssh.dll
+C:\\Program Files (x86)\Wireshark\libtasn1-6.dll
+C:\\Program Files (x86)\Wireshark\libwinpthread-1.dll
+C:\\Program Files (x86)\Wireshark\libwireshark.dll
+C:\\Program Files (x86)\Wireshark\libwiretap.dll
+C:\\Program Files (x86)\Wireshark\libwsutil.dll
+C:\\Program Files (x86)\Wireshark\libxml2.dll
+C:\\Program Files (x86)\Wireshark\lua52.dll
+C:\\Program Files (x86)\Wireshark\lz4.dll
+C:\\Program Files (x86)\Wireshark\lzma.dll
+C:\\Program Files (x86)\Wireshark\mergecap.exe
+C:\\Program Files (x86)\Wireshark\mergecap.html
+C:\\Program Files (x86)\Wireshark\mmdbresolve.exe
+C:\\Program Files (x86)\Wireshark\mmdbresolve.html
+C:\\Program Files (x86)\Wireshark\NEWS.txt
+C:\\Program Files (x86)\Wireshark\nghttp2.dll
+C:\\Program Files (x86)\Wireshark\opengl32sw.dll
+C:\\Program Files (x86)\Wireshark\pcre.dll
+C:\\Program Files (x86)\Wireshark\pdml2html.xsl
+C:\\Program Files (x86)\Wireshark\Qt5Core.dll
+C:\\Program Files (x86)\Wireshark\Qt5Gui.dll
+C:\\Program Files (x86)\Wireshark\Qt5Multimedia.dll
+C:\\Program Files (x86)\Wireshark\Qt5Network.dll
+C:\\Program Files (x86)\Wireshark\Qt5PrintSupport.dll
+C:\\Program Files (x86)\Wireshark\Qt5Svg.dll
+C:\\Program Files (x86)\Wireshark\Qt5Widgets.dll
+C:\\Program Files (x86)\Wireshark\Qt5WinExtras.dll
+C:\\Program Files (x86)\Wireshark\rawshark.exe
+C:\\Program Files (x86)\Wireshark\rawshark.html
+C:\\Program Files (x86)\Wireshark\README.txt
+C:\\Program Files (x86)\Wireshark\README.windows.txt
+C:\\Program Files (x86)\Wireshark\reordercap.exe
+C:\\Program Files (x86)\Wireshark\reordercap.html
+C:\\Program Files (x86)\Wireshark\text2pcap.exe
+C:\\Program Files (x86)\Wireshark\text2pcap.html
+C:\\Program Files (x86)\Wireshark\tshark.exe
+C:\\Program Files (x86)\Wireshark\tshark.html
+C:\\Program Files (x86)\Wireshark\uninstall.exe
+C:\\Program Files (x86)\Wireshark\user-guide.chm
+C:\\Program Files (x86)\Wireshark\WinSparkle.dll
+C:\\Program Files (x86)\Wireshark\wireshark-filter.html
+C:\\Program Files (x86)\Wireshark\Wireshark.exe
+C:\\Program Files (x86)\Wireshark\wireshark.html
+C:\\Program Files (x86)\Wireshark\ws.css
+C:\\Program Files (x86)\Wireshark\zlib1.dll
+C:\\Program Files (x86)\Wireshark\zstd.dll
+C:\\ProgramData\Foxit ContentPlatform\Progress.ini
+C:\\ProgramData\Microsoft Visual Studio\MachineStorage.dat
+C:\\ProgramData\Microsoft Visual Studio\MachineStorage.dat.bak
+C:\\ProgramData\Package Cache\{00C43022-CFDA-4942-9D3F-04199C91C939}v10.1.18121.8164
+C:\\ProgramData\Package Cache\{10CA1677-8F02-3131-F25C-780BAB52E468}v10.1.18362.1
+C:\\ProgramData\Package Cache\{13952D7A-B7B3-F4F8-5F29-5CD18E8168B7}v10.1.18362.1
+C:\\ProgramData\Package Cache\{154EEEB2-18D9-4FD5-EDE1-6D0B318FAC53}v10.1.18362.1
+C:\\ProgramData\Package Cache\{15E06EC7-2755-BD07-45AD-98DF1679A6BE}v10.1.18362.1
+C:\\ProgramData\Package Cache\{166BCCDD-48C1-8103-A7E7-0F3DE471223D}v10.1.18362.1
+C:\\ProgramData\Package Cache\{20C00582-BD18-B599-CF98-61011567D747}v10.1.18362.1
+C:\\ProgramData\Package Cache\{21514D7D-4124-E52E-8483-727380B855D7}v10.1.18362.1
+C:\\ProgramData\Package Cache\{217E19C8-ACC0-C7ED-AB69-A30F3F96C625}v10.1.18362.1
+C:\\ProgramData\Package Cache\{21F4DE3E-CE64-584E-BD74-2D1765EB39DE}v10.1.18362.1
+C:\\ProgramData\Package Cache\{238F56B7-7D14-F8EB-3F4D-8CFF18C19E2B}v10.1.18362.1
+C:\\ProgramData\Package Cache\{250D5341-0879-4016-399C-BBCD87B80E95}v10.1.18362.1
+C:\\ProgramData\Package Cache\{2E6C6299-BF5F-379D-55F2-8FD3367F5918}v10.1.18362.1
+C:\\ProgramData\Package Cache\{30AD20A4-1FFF-2632-4555-EFAF9D8A32CD}v10.1.18362.1
+C:\\ProgramData\Package Cache\{34B51780-922E-5CBF-C16F-13F0A9502267}v10.1.18362.1
+C:\\ProgramData\Package Cache\{36AE12FB-4349-6EAA-B6E4-5F4E06FA8AE8}v10.1.18362.1
+C:\\ProgramData\Package Cache\{39692B57-0BA8-2197-8BC5-4108DFB8475A}v10.1.18362.1
+C:\\ProgramData\Package Cache\{39EDCC7D-7B63-5D99-C053-C8CDF02DC5ED}v10.1.18362.1
+C:\\ProgramData\Package Cache\{3A98BFB1-16A6-576B-FFC8-7FEF26B40DBA}v10.1.18362.1
+C:\\ProgramData\Package Cache\{3CEE8EB6-538E-DDA2-51A5-842ECE6CE1E8}v10.1.18362.1
+C:\\ProgramData\Package Cache\{3DC4086C-B365-3DE4-878B-659DEB72904E}v10.1.18362.1
+C:\\ProgramData\Package Cache\{406A47EE-C4AE-4944-BADE-1B543A443873}v3.8.7072.0
+C:\\ProgramData\Package Cache\{452ABC9E-731E-71B2-8824-C5B2595370AF}v10.1.18362.1
+C:\\ProgramData\Package Cache\{4CA7ABF1-DB68-0F9E-5AD9-58550198D0AC}v10.1.18362.1
+C:\\ProgramData\Package Cache\{52CE7A43-B499-5F4B-A525-AA8794D3580F}v10.1.18362.1
+C:\\ProgramData\Package Cache\{540ADDB0-7A37-9B99-3568-FD1EA33D3B38}v10.1.18362.1
+C:\\ProgramData\Package Cache\{54140689-B7DB-B9CF-537D-8FEB279410F9}v10.1.18362.1
+C:\\ProgramData\Package Cache\{54FE4D23-11A2-F1C4-76E9-79C8FB40A4A1}v10.1.18362.1
+C:\\ProgramData\Package Cache\{5C3F08FC-E0D4-6C94-90EF-72DE63DDA885}v10.1.18362.1
+C:\\ProgramData\Package Cache\{5CD4E357-9ED6-42AC-B654-F1FC21DD60C9}v14.27.29016
+C:\\ProgramData\Package Cache\{5D60A4EF-6EDF-AAF4-F0F0-49FDD40176B8}v10.1.18362.1
+C:\\ProgramData\Package Cache\{5F56BF12-0818-B58A-5862-939784E12F8B}v10.1.18362.1
+C:\\ProgramData\Package Cache\{5FAF2ED2-CA24-0313-8CAF-C28DEE421200}v10.1.18362.1
+C:\\ProgramData\Package Cache\{63AAA877-5536-9481-2385-28A082100D78}v10.1.18362.1
+C:\\ProgramData\Package Cache\{65E9398F-77A0-8681-026C-8CF092A71F11}v10.1.18362.1
+C:\\ProgramData\Package Cache\{66483041-F590-EC46-4AF0-EE39C62FB680}v10.1.18362.1
+C:\\ProgramData\Package Cache\{67EE3804-9642-62BA-EBF1-B1561FB4ECBE}v10.1.18362.1
+C:\\ProgramData\Package Cache\{6A96DEED-D0D8-6DD0-21BD-7D8F60714854}v10.1.18362.1
+C:\\ProgramData\Package Cache\{6B03A6A4-643C-57CE-CA6F-4E19BF47497A}v10.1.18362.1
+C:\\ProgramData\Package Cache\{6B37CC5B-78DF-5050-2215-68479716A587}v10.1.18362.1
+C:\\ProgramData\Package Cache\{6E3528B9-92A6-A48A-AE84-890E0E5DE9BB}v10.1.18362.1
+C:\\ProgramData\Package Cache\{6EEDDD9D-BF7B-8229-92B4-89DFCF7481ED}v10.1.18362.1
+C:\\ProgramData\Package Cache\{6F54BF87-2EE6-FA6D-431D-33A665992D49}v10.1.18362.1
+C:\\ProgramData\Package Cache\{73681F86-CD86-4208-572F-959B45430B04}v10.1.18362.1
+C:\\ProgramData\Package Cache\{74CBC330-ED16-31B9-E8BE-0C6A8E67DE32}v10.1.18362.1
+C:\\ProgramData\Package Cache\{795E8F11-37DE-611E-921E-7D70BE09BF7B}v10.1.18362.1
+C:\\ProgramData\Package Cache\{7EF010FF-7800-28BA-FF49-2D219EC7BA82}v10.1.18362.1
+C:\\ProgramData\Package Cache\{847D4DAF-0182-265B-324F-406462E8A90D}v10.1.18362.1
+C:\\ProgramData\Package Cache\{86ADBBAE-77AE-FA26-7C17-802AE28AC316}v10.1.18362.1
+C:\\ProgramData\Package Cache\{8E3AE0EF-D067-700C-BDB4-10D5552155DC}v10.1.18362.1
+C:\\ProgramData\Package Cache\{8F21D4CD-9CB4-2648-EECC-60147DE7B32D}v10.1.18362.1
+C:\\ProgramData\Package Cache\{918A448F-59E8-FBF5-B087-D3F07160C7E0}v10.1.18362.1
+C:\\ProgramData\Package Cache\{995DDD4F-928C-4EBA-9702-E7CD3F6A7A9D}v10.1.18362.1
+C:\\ProgramData\Package Cache\{9C61E6D2-C43E-6746-B519-6185558C4A24}v10.1.18362.1
+C:\\ProgramData\Package Cache\{9DA29C3D-9E36-AC22-59C8-FFCF413DC068}v10.1.18362.1
+C:\\ProgramData\Package Cache\{9F7B0D96-881D-8850-C303-43F3A08E6902}v10.1.18362.1
+C:\\ProgramData\Package Cache\{A5174AE6-3704-EE0A-BEFF-21BC5275BA02}v10.1.18362.1
+C:\\ProgramData\Package Cache\{A5EF45C5-FA27-7E8F-1AE8-E3D39BAC779E}v10.1.18362.1
+C:\\ProgramData\Package Cache\{B4A7994D-DBA1-8B4D-621A-03EE52CF838A}v10.1.18362.1
+C:\\ProgramData\Package Cache\{C13D21F1-E9A3-FB93-18C4-B905FB47F122}v10.1.18362.1
+C:\\ProgramData\Package Cache\{C9552825-7BF2-4344-BA91-D3CD46F4C441}v1.60.155.0
+C:\\ProgramData\Package Cache\{C9552825-7BF2-4344-BA91-D3CD46F4C442}v1.60.155.0
+C:\\ProgramData\Package Cache\{CB4A0FDE-1126-4AE2-97C6-A243692C3D95}v14.26.28720
+C:\\ProgramData\Package Cache\{CEDD7BE6-97B5-9AE8-57C0-B390E0C4328F}v10.1.18362.1
+C:\\ProgramData\Package Cache\{DB4DB790-64DD-1902-4BF2-833B3B6DBCA1}v10.1.18362.1
+C:\\ProgramData\Package Cache\{DD1EC0FD-3F0A-4740-A05E-1DCD14A6B0D1}v14.26.28720
+C:\\ProgramData\Package Cache\{DDAF4CFD-D635-8305-5157-9ECEA9F89678}v10.1.18362.1
+C:\\ProgramData\Package Cache\{E2C131AD-D30F-4D67-ACE9-B3D485E84DA8}v14.27.29016
+C:\\ProgramData\Package Cache\{E67F1F03-FB4A-3D61-8999-E6A4C4B26F34}v10.1.18362.1
+C:\\ProgramData\Package Cache\{E6F877A1-2F65-4BF0-87B6-A4071B7663D3}v10.1.0.0
+C:\\ProgramData\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft Office 16 Click-to-Run Extensibility Component.swidtag
+C:\\ProgramData\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft Office 16 Click-to-Run Licensing Component.swidtag
+C:\\ProgramData\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft Office 16 Click-to-Run Localization Component.swidtag
+C:\\ProgramData\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft.dab37a47.swidtag
+C:\\ProgramData\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft_Windows-10-Pro.swidtag
+C:\\ProgramData\Riot Games\machine.cfg
+C:\\ProgramData\Riot Games\RiotClientInstalls.json
+C:\\ProgramData\SupportAssist\SupportAssistAgentConfiguration.xml
+C:\\ProgramData\VMware\netmap.conf
+C:\\ProgramData\VMware\vmnetdhcp.conf
+C:\\ProgramData\VMware\vmnetdhcp.leases
+C:\\ProgramData\VMware\vmnetdhcp.leases~
+C:\\ProgramData\VMware\vmnetnat-mac.txt
+C:\\ProgramData\VMware\vmnetnat.conf
+C:\\ProgramData\Windows App Certification Kit\results.xsl
+C:\\ProgramData\Windows App Certification Kit\wp-results.xsl
+C:\\ProgramData\Windows App Certification Kit\wslk_strings.xml
+C:\\Python27\DLLs\bz2.pyd
+C:\\Python27\DLLs\py.ico
+C:\\Python27\DLLs\pyc.ico
+C:\\Python27\DLLs\pyexpat.pyd
+C:\\Python27\DLLs\select.pyd
+C:\\Python27\DLLs\sqlite3.dll
+C:\\Python27\DLLs\tcl85.dll
+C:\\Python27\DLLs\tclpip85.dll
+C:\\Python27\DLLs\tk85.dll
+C:\\Python27\DLLs\unicodedata.pyd
+C:\\Python27\DLLs\winsound.pyd
+C:\\Python27\DLLs\_bsddb.pyd
+C:\\Python27\DLLs\_ctypes.pyd
+C:\\Python27\DLLs\_ctypes_test.pyd
+C:\\Python27\DLLs\_elementtree.pyd
+C:\\Python27\DLLs\_hashlib.pyd
+C:\\Python27\DLLs\_msi.pyd
+C:\\Python27\DLLs\_multiprocessing.pyd
+C:\\Python27\DLLs\_socket.pyd
+C:\\Python27\DLLs\_sqlite3.pyd
+C:\\Python27\DLLs\_ssl.pyd
+C:\\Python27\DLLs\_testcapi.pyd
+C:\\Python27\DLLs\_tkinter.pyd
+C:\\Python27\Doc\python2716.chm
+C:\\Python27\include\abstract.h
+C:\\Python27\include\asdl.h
+C:\\Python27\include\ast.h
+C:\\Python27\include\bitset.h
+C:\\Python27\include\boolobject.h
+C:\\Python27\include\bufferobject.h
+C:\\Python27\include\bytearrayobject.h
+C:\\Python27\include\bytesobject.h
+C:\\Python27\include\bytes_methods.h
+C:\\Python27\include\cellobject.h
+C:\\Python27\include\ceval.h
+C:\\Python27\include\classobject.h
+C:\\Python27\include\cobject.h
+C:\\Python27\include\code.h
+C:\\Python27\include\codecs.h
+C:\\Python27\include\compile.h
+C:\\Python27\include\complexobject.h
+C:\\Python27\include\cStringIO.h
+C:\\Python27\include\datetime.h
+C:\\Python27\include\descrobject.h
+C:\\Python27\include\dictobject.h
+C:\\Python27\include\dtoa.h
+C:\\Python27\include\enumobject.h
+C:\\Python27\include\errcode.h
+C:\\Python27\include\eval.h
+C:\\Python27\include\fileobject.h
+C:\\Python27\include\floatobject.h
+C:\\Python27\include\frameobject.h
+C:\\Python27\include\funcobject.h
+C:\\Python27\include\genobject.h
+C:\\Python27\include\graminit.h
+C:\\Python27\include\grammar.h
+C:\\Python27\include\import.h
+C:\\Python27\include\intobject.h
+C:\\Python27\include\intrcheck.h
+C:\\Python27\include\iterobject.h
+C:\\Python27\include\listobject.h
+C:\\Python27\include\longintrepr.h
+C:\\Python27\include\longobject.h
+C:\\Python27\include\marshal.h
+C:\\Python27\include\memoryobject.h
+C:\\Python27\include\metagrammar.h
+C:\\Python27\include\methodobject.h
+C:\\Python27\include\modsupport.h
+C:\\Python27\include\moduleobject.h
+C:\\Python27\include\node.h
+C:\\Python27\include\object.h
+C:\\Python27\include\objimpl.h
+C:\\Python27\include\opcode.h
+C:\\Python27\include\osdefs.h
+C:\\Python27\include\parsetok.h
+C:\\Python27\include\patchlevel.h
+C:\\Python27\include\pgen.h
+C:\\Python27\include\pgenheaders.h
+C:\\Python27\include\pyarena.h
+C:\\Python27\include\pycapsule.h
+C:\\Python27\include\pyconfig.h
+C:\\Python27\include\pyctype.h
+C:\\Python27\include\pydebug.h
+C:\\Python27\include\pyerrors.h
+C:\\Python27\include\pyexpat.h
+C:\\Python27\include\pyfpe.h
+C:\\Python27\include\pygetopt.h
+C:\\Python27\include\pymacconfig.h
+C:\\Python27\include\pymactoolbox.h
+C:\\Python27\include\pymath.h
+C:\\Python27\include\pymem.h
+C:\\Python27\include\pyport.h
+C:\\Python27\include\pystate.h
+C:\\Python27\include\pystrcmp.h
+C:\\Python27\include\pystrtod.h
+C:\\Python27\include\Python-ast.h
+C:\\Python27\include\Python.h
+C:\\Python27\include\pythonrun.h
+C:\\Python27\include\pythread.h
+C:\\Python27\include\py_curses.h
+C:\\Python27\include\rangeobject.h
+C:\\Python27\include\setobject.h
+C:\\Python27\include\sliceobject.h
+C:\\Python27\include\stringobject.h
+C:\\Python27\include\structmember.h
+C:\\Python27\include\structseq.h
+C:\\Python27\include\symtable.h
+C:\\Python27\include\sysmodule.h
+C:\\Python27\include\timefuncs.h
+C:\\Python27\include\token.h
+C:\\Python27\include\traceback.h
+C:\\Python27\include\tupleobject.h
+C:\\Python27\include\ucnhash.h
+C:\\Python27\include\unicodeobject.h
+C:\\Python27\include\warnings.h
+C:\\Python27\include\weakrefobject.h
+C:\\Python27\Lib\abc.py
+C:\\Python27\Lib\abc.pyc
+C:\\Python27\Lib\aifc.py
+C:\\Python27\Lib\antigravity.py
+C:\\Python27\Lib\anydbm.py
+C:\\Python27\Lib\argparse.py
+C:\\Python27\Lib\argparse.pyc
+C:\\Python27\Lib\ast.py
+C:\\Python27\Lib\asynchat.py
+C:\\Python27\Lib\asyncore.py
+C:\\Python27\Lib\atexit.py
+C:\\Python27\Lib\atexit.pyc
+C:\\Python27\Lib\audiodev.py
+C:\\Python27\Lib\base64.py
+C:\\Python27\Lib\base64.pyc
+C:\\Python27\Lib\BaseHTTPServer.py
+C:\\Python27\Lib\Bastion.py
+C:\\Python27\Lib\bdb.py
+C:\\Python27\Lib\bdb.pyc
+C:\\Python27\Lib\binhex.py
+C:\\Python27\Lib\bisect.py
+C:\\Python27\Lib\bisect.pyc
+C:\\Python27\Lib\calendar.py
+C:\\Python27\Lib\calendar.pyc
+C:\\Python27\Lib\cgi.py
+C:\\Python27\Lib\cgi.pyc
+C:\\Python27\Lib\CGIHTTPServer.py
+C:\\Python27\Lib\cgitb.py
+C:\\Python27\Lib\chunk.py
+C:\\Python27\Lib\cmd.py
+C:\\Python27\Lib\code.py
+C:\\Python27\Lib\code.pyc
+C:\\Python27\Lib\codecs.py
+C:\\Python27\Lib\codecs.pyc
+C:\\Python27\Lib\codeop.py
+C:\\Python27\Lib\codeop.pyc
+C:\\Python27\Lib\collections.py
+C:\\Python27\Lib\collections.pyc
+C:\\Python27\Lib\colorsys.py
+C:\\Python27\Lib\commands.py
+C:\\Python27\Lib\compileall.py
+C:\\Python27\Lib\compileall.pyc
+C:\\Python27\Lib\ConfigParser.py
+C:\\Python27\Lib\ConfigParser.pyc
+C:\\Python27\Lib\contextlib.py
+C:\\Python27\Lib\contextlib.pyc
+C:\\Python27\Lib\Cookie.py
+C:\\Python27\Lib\Cookie.pyc
+C:\\Python27\Lib\cookielib.py
+C:\\Python27\Lib\cookielib.pyc
+C:\\Python27\Lib\copy.py
+C:\\Python27\Lib\copy.pyc
+C:\\Python27\Lib\copy_reg.py
+C:\\Python27\Lib\copy_reg.pyc
+C:\\Python27\Lib\cProfile.py
+C:\\Python27\Lib\csv.py
+C:\\Python27\Lib\csv.pyc
+C:\\Python27\Lib\dbhash.py
+C:\\Python27\Lib\decimal.py
+C:\\Python27\Lib\difflib.py
+C:\\Python27\Lib\dircache.py
+C:\\Python27\Lib\dis.py
+C:\\Python27\Lib\dis.pyc
+C:\\Python27\Lib\doctest.py
+C:\\Python27\Lib\DocXMLRPCServer.py
+C:\\Python27\Lib\dumbdbm.py
+C:\\Python27\Lib\dummy_thread.py
+C:\\Python27\Lib\dummy_threading.py
+C:\\Python27\Lib\filecmp.py
+C:\\Python27\Lib\fileinput.py
+C:\\Python27\Lib\fnmatch.py
+C:\\Python27\Lib\fnmatch.pyc
+C:\\Python27\Lib\formatter.py
+C:\\Python27\Lib\fpformat.py
+C:\\Python27\Lib\fractions.py
+C:\\Python27\Lib\ftplib.py
+C:\\Python27\Lib\functools.py
+C:\\Python27\Lib\functools.pyc
+C:\\Python27\Lib\genericpath.py
+C:\\Python27\Lib\genericpath.pyc
+C:\\Python27\Lib\getopt.py
+C:\\Python27\Lib\getopt.pyc
+C:\\Python27\Lib\getpass.py
+C:\\Python27\Lib\getpass.pyc
+C:\\Python27\Lib\gettext.py
+C:\\Python27\Lib\gettext.pyc
+C:\\Python27\Lib\glob.py
+C:\\Python27\Lib\glob.pyc
+C:\\Python27\Lib\gzip.py
+C:\\Python27\Lib\gzip.pyc
+C:\\Python27\Lib\hashlib.py
+C:\\Python27\Lib\hashlib.pyc
+C:\\Python27\Lib\heapq.py
+C:\\Python27\Lib\heapq.pyc
+C:\\Python27\Lib\hmac.py
+C:\\Python27\Lib\hmac.pyc
+C:\\Python27\Lib\htmlentitydefs.py
+C:\\Python27\Lib\htmlentitydefs.pyc
+C:\\Python27\Lib\htmllib.py
+C:\\Python27\Lib\HTMLParser.py
+C:\\Python27\Lib\HTMLParser.pyc
+C:\\Python27\Lib\httplib.py
+C:\\Python27\Lib\httplib.pyc
+C:\\Python27\Lib\ihooks.py
+C:\\Python27\Lib\imaplib.py
+C:\\Python27\Lib\imghdr.py
+C:\\Python27\Lib\imputil.py
+C:\\Python27\Lib\inspect.py
+C:\\Python27\Lib\inspect.pyc
+C:\\Python27\Lib\io.py
+C:\\Python27\Lib\io.pyc
+C:\\Python27\Lib\keyword.py
+C:\\Python27\Lib\keyword.pyc
+C:\\Python27\Lib\linecache.py
+C:\\Python27\Lib\linecache.pyc
+C:\\Python27\Lib\locale.py
+C:\\Python27\Lib\locale.pyc
+C:\\Python27\Lib\macpath.py
+C:\\Python27\Lib\macurl2path.py
+C:\\Python27\Lib\mailbox.py
+C:\\Python27\Lib\mailcap.py
+C:\\Python27\Lib\markupbase.py
+C:\\Python27\Lib\markupbase.pyc
+C:\\Python27\Lib\md5.py
+C:\\Python27\Lib\mhlib.py
+C:\\Python27\Lib\mimetools.py
+C:\\Python27\Lib\mimetools.pyc
+C:\\Python27\Lib\mimetypes.py
+C:\\Python27\Lib\mimetypes.pyc
+C:\\Python27\Lib\MimeWriter.py
+C:\\Python27\Lib\mimify.py
+C:\\Python27\Lib\modulefinder.py
+C:\\Python27\Lib\multifile.py
+C:\\Python27\Lib\mutex.py
+C:\\Python27\Lib\netrc.py
+C:\\Python27\Lib\netrc.pyc
+C:\\Python27\Lib\new.py
+C:\\Python27\Lib\nntplib.py
+C:\\Python27\Lib\ntpath.py
+C:\\Python27\Lib\ntpath.pyc
+C:\\Python27\Lib\nturl2path.py
+C:\\Python27\Lib\nturl2path.pyc
+C:\\Python27\Lib\numbers.py
+C:\\Python27\Lib\opcode.py
+C:\\Python27\Lib\opcode.pyc
+C:\\Python27\Lib\optparse.py
+C:\\Python27\Lib\optparse.pyc
+C:\\Python27\Lib\os.py
+C:\\Python27\Lib\os.pyc
+C:\\Python27\Lib\os2emxpath.py
+C:\\Python27\Lib\pdb.py
+C:\\Python27\Lib\pickle.py
+C:\\Python27\Lib\pickle.pyc
+C:\\Python27\Lib\pickletools.py
+C:\\Python27\Lib\pipes.py
+C:\\Python27\Lib\pipes.pyc
+C:\\Python27\Lib\pkgutil.py
+C:\\Python27\Lib\pkgutil.pyc
+C:\\Python27\Lib\platform.py
+C:\\Python27\Lib\platform.pyc
+C:\\Python27\Lib\plistlib.py
+C:\\Python27\Lib\plistlib.pyc
+C:\\Python27\Lib\popen2.py
+C:\\Python27\Lib\poplib.py
+C:\\Python27\Lib\posixfile.py
+C:\\Python27\Lib\posixpath.py
+C:\\Python27\Lib\posixpath.pyc
+C:\\Python27\Lib\pprint.py
+C:\\Python27\Lib\pprint.pyc
+C:\\Python27\Lib\profile.py
+C:\\Python27\Lib\pstats.py
+C:\\Python27\Lib\pty.py
+C:\\Python27\Lib\pyclbr.py
+C:\\Python27\Lib\pydoc.py
+C:\\Python27\Lib\pydoc.pyc
+C:\\Python27\Lib\py_compile.py
+C:\\Python27\Lib\py_compile.pyc
+C:\\Python27\Lib\Queue.py
+C:\\Python27\Lib\Queue.pyc
+C:\\Python27\Lib\quopri.py
+C:\\Python27\Lib\quopri.pyc
+C:\\Python27\Lib\random.py
+C:\\Python27\Lib\random.pyc
+C:\\Python27\Lib\re.py
+C:\\Python27\Lib\re.pyc
+C:\\Python27\Lib\repr.py
+C:\\Python27\Lib\repr.pyc
+C:\\Python27\Lib\rexec.py
+C:\\Python27\Lib\rfc822.py
+C:\\Python27\Lib\rfc822.pyc
+C:\\Python27\Lib\rlcompleter.py
+C:\\Python27\Lib\robotparser.py
+C:\\Python27\Lib\runpy.py
+C:\\Python27\Lib\runpy.pyc
+C:\\Python27\Lib\sched.py
+C:\\Python27\Lib\sets.py
+C:\\Python27\Lib\sgmllib.py
+C:\\Python27\Lib\sha.py
+C:\\Python27\Lib\shelve.py
+C:\\Python27\Lib\shlex.py
+C:\\Python27\Lib\shlex.pyc
+C:\\Python27\Lib\shutil.py
+C:\\Python27\Lib\shutil.pyc
+C:\\Python27\Lib\SimpleHTTPServer.py
+C:\\Python27\Lib\SimpleXMLRPCServer.py
+C:\\Python27\Lib\site.py
+C:\\Python27\Lib\site.pyc
+C:\\Python27\Lib\smtpd.py
+C:\\Python27\Lib\smtplib.py
+C:\\Python27\Lib\sndhdr.py
+C:\\Python27\Lib\socket.py
+C:\\Python27\Lib\socket.pyc
+C:\\Python27\Lib\SocketServer.py
+C:\\Python27\Lib\SocketServer.pyc
+C:\\Python27\Lib\sre.py
+C:\\Python27\Lib\sre_compile.py
+C:\\Python27\Lib\sre_compile.pyc
+C:\\Python27\Lib\sre_constants.py
+C:\\Python27\Lib\sre_constants.pyc
+C:\\Python27\Lib\sre_parse.py
+C:\\Python27\Lib\sre_parse.pyc
+C:\\Python27\Lib\ssl.py
+C:\\Python27\Lib\ssl.pyc
+C:\\Python27\Lib\stat.py
+C:\\Python27\Lib\stat.pyc
+C:\\Python27\Lib\statvfs.py
+C:\\Python27\Lib\string.py
+C:\\Python27\Lib\string.pyc
+C:\\Python27\Lib\StringIO.py
+C:\\Python27\Lib\StringIO.pyc
+C:\\Python27\Lib\stringold.py
+C:\\Python27\Lib\stringprep.py
+C:\\Python27\Lib\stringprep.pyc
+C:\\Python27\Lib\struct.py
+C:\\Python27\Lib\struct.pyc
+C:\\Python27\Lib\subprocess.py
+C:\\Python27\Lib\subprocess.pyc
+C:\\Python27\Lib\sunau.py
+C:\\Python27\Lib\sunaudio.py
+C:\\Python27\Lib\symbol.py
+C:\\Python27\Lib\symtable.py
+C:\\Python27\Lib\sysconfig.py
+C:\\Python27\Lib\sysconfig.pyc
+C:\\Python27\Lib\tabnanny.py
+C:\\Python27\Lib\tabnanny.pyc
+C:\\Python27\Lib\tarfile.py
+C:\\Python27\Lib\tarfile.pyc
+C:\\Python27\Lib\telnetlib.py
+C:\\Python27\Lib\tempfile.py
+C:\\Python27\Lib\tempfile.pyc
+C:\\Python27\Lib\textwrap.py
+C:\\Python27\Lib\textwrap.pyc
+C:\\Python27\Lib\this.py
+C:\\Python27\Lib\threading.py
+C:\\Python27\Lib\threading.pyc
+C:\\Python27\Lib\timeit.py
+C:\\Python27\Lib\toaiff.py
+C:\\Python27\Lib\token.py
+C:\\Python27\Lib\token.pyc
+C:\\Python27\Lib\tokenize.py
+C:\\Python27\Lib\tokenize.pyc
+C:\\Python27\Lib\trace.py
+C:\\Python27\Lib\traceback.py
+C:\\Python27\Lib\traceback.pyc
+C:\\Python27\Lib\tty.py
+C:\\Python27\Lib\types.py
+C:\\Python27\Lib\types.pyc
+C:\\Python27\Lib\urllib.py
+C:\\Python27\Lib\urllib.pyc
+C:\\Python27\Lib\urllib2.py
+C:\\Python27\Lib\urllib2.pyc
+C:\\Python27\Lib\urlparse.py
+C:\\Python27\Lib\urlparse.pyc
+C:\\Python27\Lib\user.py
+C:\\Python27\Lib\UserDict.py
+C:\\Python27\Lib\UserDict.pyc
+C:\\Python27\Lib\UserList.py
+C:\\Python27\Lib\UserString.py
+C:\\Python27\Lib\uu.py
+C:\\Python27\Lib\uu.pyc
+C:\\Python27\Lib\uuid.py
+C:\\Python27\Lib\warnings.py
+C:\\Python27\Lib\warnings.pyc
+C:\\Python27\Lib\wave.py
+C:\\Python27\Lib\weakref.py
+C:\\Python27\Lib\weakref.pyc
+C:\\Python27\Lib\webbrowser.py
+C:\\Python27\Lib\webbrowser.pyc
+C:\\Python27\Lib\whichdb.py
+C:\\Python27\Lib\xdrlib.py
+C:\\Python27\Lib\xmllib.py
+C:\\Python27\Lib\xmlrpclib.py
+C:\\Python27\Lib\xmlrpclib.pyc
+C:\\Python27\Lib\zipfile.py
+C:\\Python27\Lib\zipfile.pyc
+C:\\Python27\Lib\_abcoll.py
+C:\\Python27\Lib\_abcoll.pyc
+C:\\Python27\Lib\_LWPCookieJar.py
+C:\\Python27\Lib\_LWPCookieJar.pyc
+C:\\Python27\Lib\_MozillaCookieJar.py
+C:\\Python27\Lib\_MozillaCookieJar.pyc
+C:\\Python27\Lib\_osx_support.py
+C:\\Python27\Lib\_pyio.py
+C:\\Python27\Lib\_strptime.py
+C:\\Python27\Lib\_strptime.pyc
+C:\\Python27\Lib\_threading_local.py
+C:\\Python27\Lib\_weakrefset.py
+C:\\Python27\Lib\_weakrefset.pyc
+C:\\Python27\Lib\__future__.py
+C:\\Python27\Lib\__future__.pyc
+C:\\Python27\Lib\__phello__.foo.py
+C:\\Python27\libs\bz2.lib
+C:\\Python27\libs\libpython27.a
+C:\\Python27\libs\pyexpat.lib
+C:\\Python27\libs\python27.lib
+C:\\Python27\libs\select.lib
+C:\\Python27\libs\unicodedata.lib
+C:\\Python27\libs\winsound.lib
+C:\\Python27\libs\_bsddb.lib
+C:\\Python27\libs\_ctypes.lib
+C:\\Python27\libs\_ctypes_test.lib
+C:\\Python27\libs\_elementtree.lib
+C:\\Python27\libs\_hashlib.lib
+C:\\Python27\libs\_msi.lib
+C:\\Python27\libs\_multiprocessing.lib
+C:\\Python27\libs\_socket.lib
+C:\\Python27\libs\_sqlite3.lib
+C:\\Python27\libs\_ssl.lib
+C:\\Python27\libs\_testcapi.lib
+C:\\Python27\libs\_tkinter.lib
+C:\\Python27\Scripts\easy_install-2.7.exe
+C:\\Python27\Scripts\easy_install.exe
+C:\\Python27\Scripts\f2py.exe
+C:\\Python27\Scripts\pip.exe
+C:\\Python27\Scripts\pip2.7.exe
+C:\\Python27\Scripts\pip2.exe
+C:\\Python27\tcl\dde1.3
+C:\\Python27\tcl\reg1.2
+C:\\Python27\tcl\tcl8.5
+C:\\Python27\tcl\tcl85.lib
+C:\\Python27\tcl\tclConfig.sh
+C:\\Python27\tcl\tclstub85.lib
+C:\\Python27\tcl\tix8.4.3
+C:\\Python27\tcl\tk8.5
+C:\\Python27\tcl\tk85.lib
+C:\\Python27\tcl\tkstub85.lib
+C:\\Users\All Users\DP45977C.lfl
+C:\\Users\All Users\regid.1991-06.com.microsoft
+C:\\Users\Default\NTUSER.DAT
+C:\\Users\Default\NTUSER.DAT.LOG1
+C:\\Users\Default\NTUSER.DAT.LOG2
+C:\\Users\Default\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+C:\\Users\Default\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+C:\\Users\Default\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+C:\\Users\Public\desktop.ini
+C:\\Users\QT\Cisco Packet Tracer 7.3.0
