@@ -1,0 +1,6 @@
+f = open(links_current, "r")
+f2 = open(links_downloaded, "r")
+files_downloaded = f2.read()
+f2.close()
+f2 = open(links_downloaded, "r")
+print(files_downloaded)
